@@ -116,6 +116,7 @@
 
 #imperio {
     font-size: 80px;
+    margin-top: 100px;
     color: darkred;
     text-decoration: underline 5% white;
 }
@@ -124,4 +125,15 @@
     font-size: 80px;
     color: darkblue;
     text-decoration: underline 5% white;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(255, 238, 1);
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
 }
